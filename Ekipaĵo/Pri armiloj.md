@@ -37,4 +37,18 @@ Se vi uzas armilon, kiu havas la atributon de municio por proksima atako, vi tra
 
 **__Improvizataj armiloj.__** Iamfoje la karakteroj ne havas siajn armilojn kaj devas ataki per kio estas ĉirkaŭ. Improvizata armilo estas io, kio estas uzebla per unu aŭ du manoj, ekzemple rompita vitro, tablopiedo, pato, rado de vagono, aŭ mortinta gobleno.
 
+Ofte, improvizata armilo estas simila al vera armilo kaj povas traktiĝi same. Ekzemple, tablopiedo estas kvazaŭ klabo. Laŭ la opinio de la ludestro, karaktero kiu havas lertecon je armilo povas uzi objekton kvazaŭ ĝi estus tia armilo kaj povas aldoni sian lertecbonon.
 
+Objekto kiu neniel similas armilo kaŭzas 1p4 da damaĝo (la ludestro decidas kian damaĝon). Se karaktero uzas malproksiman armilon por proksima atako, aŭ ĵetas proksiman armilon kiu ne havas la atributon "ĵetebla", ĝi ankaŭ kaŭzas 1p4 da damaĝo. Improvizata ĵetata armilo havas normalan distancon de 20 futoj kaj longa distanco de 60 futoj.
+
+**__Arĝentataj armiloj.__** Iuj monstroj kiuj havas imunon aŭ reziston kontraŭ nesorĉaj armiloj estas vundeblaj de arĝentaj armiloj, do singardaj aventuristoj investas la aldonajn monerojn por koveri siajn armilojn per arĝento. Vi povas koveri unu armilon aŭ 10 pecoj da municio por 100 o.m. Ĉi tiu kosto reprezentas kaj la koston de la arĝento kaj la tempon kaj sperton bezonatan por koveri armilon per arĝento sen malefektivigi ĝin.
+
+##Specialaj armiloj
+
+Armiloj kun specialaj reguloj estas priskribataj ĉi tie.
+
+**__Lancego.__** Vi havas malavantaĝon je atakoj per lancego kontraŭ celoj kiuj estas 5 futoj de vi. Ankaŭ, vi devas uzi du manoj por uzi lancegon kiam ne estas rajdanta.
+
+**__Reto.__** Granda aŭ pli malgranda kreaĵo kiu estas trafata de reto estas tenata ĝis liberiĝi. Reto ne influas kreaĵojn, kiuj estas senformaj, aŭ kiuj estas grandegaj aŭ pli grandaj. Kreaĵo povas uzi sian agon por fari fortĵeton de defio 10. Je sukceso, la kreaĵo liberigas sin aŭ alia kreaĵo en sia areo. Kaŭzi 5 poentoj da tranĉa damaĝo al la reto (KK 10) ankaŭ liberigas la kreaĵon senvunde. La kondiĉo finiĝas kaj la reto estas detruata.
+
+Kiam vi uzas agon, aldonan agon, aŭ reagon por ataki per reto, vi nur povas fari unu atakon malgraŭ la nombroj da atakoj, kiujn vi normale povas fari.
