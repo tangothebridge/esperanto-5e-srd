@@ -19,3 +19,11 @@ https://dnd5e.info/
 Partoj de la SRD de la 3.5 eldono de D&G (do Vojtrovanto) jam estas tradukita al la Esperanto
 
 http://drakoj.ikso.net/
+
+Ĉu vi volas helpi? Se jes, ĉi tiam ekzistas du manieroj kiel vi povas tion fari.
+
+    Se vi konas la sistemon "git", aliĝu al la projekto.
+
+    Se vi ne konas la sistemon "git", aŭ ne volas krei konton je Github, sendu viajn tradukojn (kun priskriboj) al la retpoŝtadreson kontakto [ĉe] oklahoma-esperanto.net.
+
+Bonvolu ne resti sennoma. Viaj heroecaj laboroj estu konataj de ĉiuj!
